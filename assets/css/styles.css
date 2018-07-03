@@ -1,0 +1,39 @@
+#userInput {
+  margin-top: 100px;
+}
+
+#header {
+  font-size: 100px;
+  font: white
+}
+
+body {
+  font-family: 'Ubuntu Mono', monospace;
+  background-color: black;
+  color: white;
+}
+
+.gif {
+  border: #000 solid 7px;
+
+}
+
+.gifContainer {
+  margin: 10px;
+  display: inline-block;
+}
+.searchButtons {
+  margin: 7px 10px;
+  color: black;
+}
+
+.gifRating {
+  color: white;
+  font-size: 17px;
+}
+
+.gif:hover {
+  cursor: pointer;
+  border: #f1c40f solid 7.5px;
+}
+
